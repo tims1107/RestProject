@@ -1,0 +1,10 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8»úˆ×Ç.
+1squid:S1220""Move this file to a named package.
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8™ê×Ç.
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8Ï´×Ç.
+Wsquid:UnusedPrivateMethod"+Remove this unused private "getAPI" method.(ç»»¯8¡©ˆ×Ç.
+Ÿsquid:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Ê¨ıÖÇ.
+dsquid:S2259"AA "NullPointerException" could be thrown; "url" is nullable here.(¶¼ºñøÿÿÿÿ8ëø×Ç.
